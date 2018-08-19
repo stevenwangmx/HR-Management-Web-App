@@ -1,10 +1,7 @@
 /*********************************************************************************
-* WEB322 – Assignment 06
-* I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part
-* of this assignment has been copied manually or electronically from any other source
-* (including 3rd party web sites) or distributed to other students.
+* HR Employee Management Web APP
 *
-* Name: _Mingxi Wang_________ Student ID: _117920173_____ Date: _Apr.13.2018___
+* Developed by Steven Wang
 *
 * Online (Heroku) Link: https://protected-sierra-16179.herokuapp.com/  
 *

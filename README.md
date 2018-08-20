@@ -3,8 +3,9 @@ Web site Link: https://protected-sierra-16179.herokuapp.com/
 
 Web app features:
 - User login and register with authentication
-- Database host: MongoDB
-- Employee data create, update, delete, image upload
+- Database host: MongoDB and PostgreSQL
+- Data management: Employee data create, view, update, delete, image upload
+- Responsive user interface 
 
 Note: node.js package is not included in this post.
 
